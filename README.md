@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineering Student | Front-End Enthusiast | AI Learner</h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oumdacode&label=Profile%20views&color=0e75b6&style=flat" alt="oumacode" /> </p>
 
 ### 👩‍💻 About Me
 

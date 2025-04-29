@@ -13,14 +13,16 @@
 
 ### 🛠️ Technical Skills
 
-**Programming Languages**  
+**Programming Languages**
+
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=276DC3)
 
-**Web Development**  
+**Web Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
@@ -29,14 +31,17 @@
 ![Symfony](https://img.shields.io/badge/Symfony-05122A?style=flat&logo=symfony)
 ![API Platform](https://img.shields.io/badge/API%20Platform-05122A?style=flat&logo=api)
 
-**Databases & Modeling**  
+**Databases & Modeling**
+
 ![UML](https://img.shields.io/badge/UML-05122A?style=flat&logo=uml)
 ![Merise](https://img.shields.io/badge/Merise-05122A?style=flat&logo=data)
 
 **Design & Prototyping**  
+
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)
 
-**Operating Systems & Tools**  
+**Operating Systems & Tools** 
+
 ![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-05122A?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
@@ -46,7 +51,7 @@
 
 ### 🏆 Achievements & Certifications
 
-- 🎖️ Finalist in the **HackAI 2024** National Hackathon  
+- 🎖️ Participated in the **OrientalHack 1.0* (february 2025)
 - 📜 **Meta – Introduction to Front-End Development** *(January 2024)*  
 - 📜 **HackerRank – Java (Basic) Certificate** *(January 2024)*  
 - 📜 **Meta – Programming with JavaScript** *(February 2024)*  

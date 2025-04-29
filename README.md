@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oumayma Maili</h1>
 <h3 align="center">Computer Engineering Student | Front-End Enthusiast | AI Learner</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/oumayma-maili-9a8646266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="oumaymamaili@ump.ac.ma">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me

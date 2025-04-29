@@ -55,6 +55,14 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
+### 🏆 Achievements & Highlights
+
+- 🎖️ Selected as a finalist in the **HackAI 2024** National Hackathon.
+- ![Meta](https://img.shields.io/badge/Meta-Front--End%20Dev-blue?logo=meta) **Introduction to Front-End Development** – *January 2024*
+- ![HackerRank](https://img.shields.io/badge/HackerRank-Java%20(Basic)%20Certificate-brightgreen?logo=hackerrank) – *Janvuary 2024*
+- ![Meta](https://img.shields.io/badge/Meta-JavaScript%20Programming-blue?logo=meta) **Programming with JavaScript** – *February 2024*
+
+---
 
 ### 📊 GitHub Analytics
 

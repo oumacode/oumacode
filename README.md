@@ -59,11 +59,6 @@
 </p>
 
 ---
-<div align="center">
 
-
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
- 
----
 
 *Feel free to reach out for collaboration or just a friendly chat!*

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oumayma Maili</h1>
+<h1 align="center">Hi 👋, I'm Oumayma</h1>
 <h3 align="center">Computer Engineering Student | Front-End Enthusiast | AI Learner</h3>
 
 ---

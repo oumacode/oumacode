@@ -53,6 +53,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
+
+  
   <a href="https://github.com/oumacode">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oumacode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="oumacode's GitHub Stats" />
   </a>

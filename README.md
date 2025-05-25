@@ -31,7 +31,7 @@ Backend
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/> <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" title="Symfony"/> </div>
 
-💾 Advanced Databases
+Advanced Databases
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/> </div>
 

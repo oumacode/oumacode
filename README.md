@@ -1,56 +1,59 @@
-<h1 align="center">Hi 👋, I'm Oumayma</h1>
+<h1 align="center">Hi , I'm Oumayma</h1>
 <h3 align="center">Computer Engineering Student | Front-End Enthusiast | AI Learner</h3>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 &nbsp;Computer Engineering student at **L'École Nationale de l'Intelligence Artificielle et du Digital de Berkane (ENIADB)**  
-- 🌱 &nbsp;Currently enhancing skills in Computer Engineering  
-- 🌍 &nbsp;Based in **Oujda, Morocco**
-
----
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/oumayma-maili-9a8646266)
-- 📧 Email: oumaymamaili@ump.ac.ma
+- &nbsp;Computer Engineering student at **L'École Nationale de l'Intelligence Artificielle et du Digital de Berkane (ENIADB)**  
+- &nbsp;Currently enhancing skills in Computer Engineering  
+- &nbsp;Based in **Oujda, Morocco**
 
 ---
+### Let's Connect
 
-### 🛠️ Technical Skills
-
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518)
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
-![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=276DC3)
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Symfony](https://img.shields.io/badge/Symfony-05122A?style=flat&logo=symfony)
-![API Platform](https://img.shields.io/badge/API%20Platform-05122A?style=flat&logo=api)
-![UML](https://img.shields.io/badge/UML-05122A?style=flat&logo=uml)
-![Merise](https://img.shields.io/badge/Merise-05122A?style=flat&logo=data)
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)
-![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-05122A?style=flat&logo=ubuntu)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- [LinkedIn](https://www.linkedin.com/in/oumayma-maili-9a8646266)
+- Email: oumaymamaili@ump.ac.ma
 
 ---
 
-### 🏆 Achievements & Certifications
+### Tech Stack
 
-- 🎖️ Participated in the **OrientalHack 1.0* (february 2025)
-- 📜 **Meta – Introduction to Front-End Development** *(January 2024)*  
-- 📜 **HackerRank – Java (Basic) Certificate** *(January 2024)*  
-- 📜 **Meta – Programming with JavaScript** *(February 2024)*  
+🖥️ Programming Languages
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/> </div>
+
+🎨 Frontend
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/> </div>
+
+⚙️ Backend
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/> <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" title="Symfony"/> </div>
+
+💾 Advanced Databases
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/> </div>
+
+🛠 Modeling & Design Tools
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/> UML Merise
+
+🔧 Tools & Version Control
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/> 
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>  <img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"/> </div>
+  
+### Achievements & Certifications
+
+- Participated in the **OrientalHack 1.0* (february 2025)
+- **Meta – Introduction to Front-End Development** *(January 2024)*  
+- **HackerRank – Java (Basic) Certificate** *(January 2024)*  
+- **Meta – Programming with JavaScript** *(February 2024)*  
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
 

@@ -19,15 +19,15 @@
 
 ### Tech Stack
 
-🖥️ Programming Languages
+Programming Languages
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/> </div>
 
-🎨 Frontend
+Frontend
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/> </div>
 
-⚙️ Backend
+Backend
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/> <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" title="Symfony"/> </div>
 
@@ -35,11 +35,11 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/> </div>
 
-🛠 Modeling & Design Tools
+Modeling & Design Tools
 
 <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/> UML Merise
 
-🔧 Tools & Version Control
+Tools & Version Control
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/> 
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>  <img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"/> </div>

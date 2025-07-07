@@ -23,6 +23,7 @@
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oumayma-maili-9a8646266)
-- Email: oumaymamaili@ump.ac.ma
+- [Email](oumaymamaili@ump.ac.ma) 
+- [Portfolio](https://portfolio-oumayma-maili.vercel.app/)
   
 *Feel free to reach out for collaboration or just a friendly chat!*

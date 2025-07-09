@@ -11,15 +11,6 @@
   
 ---
 
-### Achievements & Certifications
-
-- Participated in the **OrientalHack 1.0* (february 2025)
-- **Meta – Introduction to Front-End Development** *(January 2024)*  
-- **HackerRank – Java (Basic) Certificate** *(January 2024)*  
-- **Meta – Programming with JavaScript** *(February 2024)*  
-
----
-
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oumayma-maili-9a8646266)

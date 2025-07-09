@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 , I'm Oumayma</h1>
-<h3 align="center">Computer Engineering Student | Front-End Enthusiast | AI Learner</h3>
+<h3 align="center">Software Engineering Student | Front-End Enthusiast | AI Learner</h3>
 
 ---
 
 ### About Me
 
-- &nbsp;Computer Engineering student at **L'École Nationale de l'Intelligence Artificielle et du Digital de Berkane (ENIADB)**  
-- &nbsp;Currently enhancing skills in Computer Engineering  
+- &nbsp;Software Engineering student at **L'École Nationale de l'Intelligence Artificielle et du Digital de Berkane (ENIADB)**  
+- &nbsp;Currently enhancing skills in Software Engineering  
 - &nbsp;Based in **Oujda, Morocco*
   
 ---

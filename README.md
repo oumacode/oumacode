@@ -13,7 +13,7 @@
 
 ### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/oumayma-maili-9a8646266)
+- [LinkedIn](https://www.linkedin.com/in/oumayma-maili)
 - [Email](oumaymamaili@ump.ac.ma) 
 - [Portfolio](https://portfolio-oumayma-maili.vercel.app/)
   

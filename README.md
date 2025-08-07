@@ -4,7 +4,7 @@ I’m [**Oumayma Maili**](https://portfolio-oumayma-maili.vercel.app), a softwar
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code, you’ll find me exploring design trends, or geeking out over tech tutorials.
+Outside of code, you’ll find me exploring design trends or geeking out over tech tutorials.
 
 #### Fun Facts:
 
@@ -15,7 +15,7 @@ Outside of code, you’ll find me exploring design trends, or geeking out over t
 ####  Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oumayma-maili)
-- 📧 [Email](mailto:oumaymamaili@ump.ac.ma)
-- 🌐 [Portfolio](https://portfolio-oumayma-maili.vercel.app)
+- [Email](mailto:oumaymamaili@ump.ac.ma)
+- [Portfolio](https://portfolio-oumayma-maili.vercel.app)
 
 *Feel free to reach out for collaboration, mentorship, or just a friendly chat!*

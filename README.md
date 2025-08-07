@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋 , I'm Oumayma</h1>
-<h3 align="center">Software Engineering Student | Front-End Enthusiast | AI Learner</h3>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
----
+I’m [**Oumayma Maili**](https://portfolio-oumayma-maili.vercel.app), a software engineering student based in Oujda, Morocco 🇲🇦.
 
-### About Me
+I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-- &nbsp;Software Engineering student at **L'École Nationale de l'Intelligence Artificielle et du Digital de Berkane (ENIADB)**  
-- &nbsp;Currently enhancing skills in Software Engineering  
-- &nbsp;Based in **Oujda, Morocco*
+Outside of code, you’ll find me exploring design trends, or geeking out over tech tutorials.
+
+#### Fun Facts:
+
+* I study at **ENIADB**—Morocco’s National School for AI and Digital.
+* I’m currently leveling up my skills in mobile development with [Expo](https://docs.expo.dev/get-started/introduction/).
   
----
 
-### Let's Connect
+####  Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oumayma-maili)
-- [Email](oumaymamaili@ump.ac.ma) 
-- [Portfolio](https://portfolio-oumayma-maili.vercel.app/)
-  
-*Feel free to reach out for collaboration or just a friendly chat!*
+- 📧 [Email](mailto:oumaymamaili@ump.ac.ma)
+- 🌐 [Portfolio](https://portfolio-oumayma-maili.vercel.app)
+
+*Feel free to reach out for collaboration, mentorship, or just a friendly chat!*

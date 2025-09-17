@@ -4,12 +4,11 @@ I’m [**Oumayma Maili**](https://portfolio-oumayma-maili.vercel.app), a softwar
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code, you’ll find me exploring design trends or geeking out over tech tutorials.
 
 #### Fun Facts:
 
 * I study at **ENIADB**—Morocco’s National School for AI and Digital.
-* I’m currently leveling up my skills in mobile development with [Expo](https://docs.expo.dev/get-started/introduction/).
+* I’m currently leveling up my skills in mobile development with Expo.
   
 
 ####  Let’s Connect

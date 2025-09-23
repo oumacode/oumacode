@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Oumayma Maili**](https://portfolio-oumayma-maili.vercel.app), a software engineering student based in Oujda, Morocco 🇲🇦.
+I’m [**Oumayma Maili**](https://oumayma-maili.vercel.app), a software engineering student based in Oujda, Morocco 🇲🇦.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 

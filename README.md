@@ -8,7 +8,7 @@ I love turning design ideas into lightning-fast, accessible interfaces that feel
 #### Fun Facts:
 
 * I study at **ENIADB**—Morocco’s National School for AI and Digital.
-* I’m currently leveling up my skills in mobile development with Expo.
+* I am currently enhancing my Java backend expertise, specializing in Spring Boot.
   
 
 ####  Let’s Connect
